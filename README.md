@@ -3,7 +3,7 @@
 Primetrade.ai — Data Science Intern Assignment
 
 ## How to Run
-1. Open `primetrade_analysis.ipynb` in Google Colab
+1. Open `primetrade_sentiment.ipynb` in Google Colab
 2. Upload both CSV files:
    - `fear_greed_index.csv`
    - `historical_data.csv`
